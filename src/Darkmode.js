@@ -28,7 +28,7 @@ function Darkmode() {
           </div>
         </section>
         <section className="passwordFind">
-          <a href="#!">
+          <a href="1">
             <p>비밀번호를 잊으셨나요 ?</p>
           </a>
         </section>
